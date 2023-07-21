@@ -7,11 +7,19 @@ The Employee Manager App is a full-stack web application built using Spring Boot
 # Features
 
 Employee Management: Add, view, update, and delete employee records.
+
 Spring Boot API: Backend API developed with Spring Boot, providing endpoints to handle HTTP requests for managing employee data.
+
 Spring Data JPA: Utilizes Spring Data JPA to interact with the MySQL database and perform database operations.
+
 Angular Frontend: User interface created with Angular, allowing seamless navigation and interaction with employee records.
+
 Angular Forms: Utilizes Angular Forms to handle input validation and data submission for employee records.
+
 Angular Routing: Implements Angular routing for smooth navigation between different components and views.
+
 Angular Services: Uses Angular Services to manage data retrieval and communication with the backend API.
+
 HTTP Communication: Handles HTTP requests and responses for communication between the frontend and backend.
-You can now perform CRUD operations on employee records through the user interface.
+
+Can  perform CRUD operations on employee records through the user interface.
