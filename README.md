@@ -14,36 +14,4 @@ Angular Forms: Utilizes Angular Forms to handle input validation and data submis
 Angular Routing: Implements Angular routing for smooth navigation between different components and views.
 Angular Services: Uses Angular Services to manage data retrieval and communication with the backend API.
 HTTP Communication: Handles HTTP requests and responses for communication between the frontend and backend.
-Prerequisites
-
-Before running the Employee Manager App, ensure you have the following installed:
-
-Java Development Kit (JDK)
-Spring Boot
-MySQL Server
-Node.js
-Angular CLI
-Getting Started
-
-#Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/yourusername/employee-manager-app.git
-Backend Setup:
-Open the backend project in your preferred IDE.
-Configure the MySQL database connection properties in application.properties.
-Run the Spring Boot application to start the backend server.
-Frontend Setup:
-Open a terminal or command prompt.
-Navigate to the frontend project directory.
-Install the required dependencies:
-bash
-Copy code
-npm install
-Run the Angular application:
-bash
-Copy code
-ng serve
-Access the Application:
-Open your web browser and go to http://localhost:4200/ to access the Employee Manager App.
 You can now perform CRUD operations on employee records through the user interface.
